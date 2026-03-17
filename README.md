@@ -156,6 +156,8 @@ drwxr-xr-x  climate-edu/       # Climate Education Platform (Gamified Learning)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ManglamX&theme=radical&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41)
 
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/ManglamX.png)](https://tryhackme.com/p/ManglamX)
+
 </div>
 
 ---
